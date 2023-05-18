@@ -1,4 +1,4 @@
-# Summer-Clustering_tsne_nn
+# tsne-nn with some changes 
 by National Yang Ming Chiao Tung University, Taiwan
 The result on a mnist dataset for a sample of 5000 training and as many testing dataset.
 
